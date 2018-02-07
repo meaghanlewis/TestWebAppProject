@@ -10,7 +10,7 @@ namespace TestWebAppProject.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            return Views();
         }
 
         public IActionResult About()
@@ -28,9 +28,5 @@ namespace TestWebAppProject.Controllers
             return View();
         }
 
-        public IActionResult Error()
-        {
-            return View();
-        }
     }
 }
