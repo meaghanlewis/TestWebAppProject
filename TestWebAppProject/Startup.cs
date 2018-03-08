@@ -24,8 +24,9 @@ namespace TestWebAppProject
 
         public IConfigurationRoot Configuration { get; }
 
-        // This method gets called by tffhe runtime. Use this method to add services to the container.
-        public void ConfigureServices(IServiceCollection services)
+		// This method gets called by tffhe runtime. Use this method to add services to the container.
+		// This method gets called by tffhe runtime. Use this method to add services to the container.
+		public void ConfigureServices(IServiceCollection services)
         {
             // Add framework services.
             services.AddMvc();
