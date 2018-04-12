@@ -3,5 +3,8 @@ using System.IO;
 
 namespace TestWebAppProject
 {
-	
+	public class Program()
+	{
+		
+	}
 }
