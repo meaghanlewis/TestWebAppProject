@@ -15,7 +15,7 @@ namespace UnitTestProject3
         {
         }
         [TestMethod]
-        public void TestMethod2()
+        public void TestMethod3()
         {
         }
     }
