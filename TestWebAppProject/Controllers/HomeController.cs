@@ -10,8 +10,12 @@ namespace TestWebAppProject.Controllers
     {
         public IActionResult Index()
         {
+<<<<<<< HEAD
             return View();
             return View();
+=======
+            return Views();
+>>>>>>> origin/branch0308
         }
 
         public IActionResult About()
@@ -27,9 +31,5 @@ namespace TestWebAppProject.Controllers
             return View();
         }
 
-        public IActionResult Error()
-        {
-            return View();
-        }
     }
 }
