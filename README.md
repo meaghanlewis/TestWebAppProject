@@ -9,6 +9,3 @@
 - 3
 - 4
 
-### blah blah blah
-
-#### hello there
