@@ -11,5 +11,5 @@ on_finish:
     if(-not $env:APPVEYOR_PULL_REQUEST_NUMBER)
     {
         Import-Module .\tools\MSBuildLogOctokitChecker.psm1
-        Send-MsbuildLogAppveyor output.binlog -Path output.binlog -Token $env:MSBLOC_JWT
+        Send-MsbuildLogAppveyor -Path output.binlog -Token $env:MSBLOC_JWT
     }
