@@ -10,10 +10,8 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
-
 [assembly: ComVisible(false)]
-
-[assembly: Guid("2300655c-1769-4f87-a8df-5ce42c2c521a")]
+[assembly: Guid("d71d6bdb-ea76-4fa3-ad31-ef3f9cee402d")]
 
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]

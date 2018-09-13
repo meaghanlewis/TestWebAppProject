@@ -1,0 +1,15 @@
+version: 1.0.{build}
+image: Visual Studio 2017
+build_script:
+- ps: >-
+    msbuild TestWebAppProject.sln --% /bl:output.binlog /verbosity:minimal
+artifacts:
+- path: output.binlog
+  type: File
+on_finish:
+- ps: >-
+    if(-not $env:APPVEYOR_PULL_REQUEST_NUMBER)
+    {
+        Import-Module .\tools\MSBuildLogOctokitChecker.psm1
+        Send-MsbuildLogAppveyor -Path output.binlog -Token $env:MSBLOC_JWT
+    }
