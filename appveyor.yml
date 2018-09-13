@@ -1,0 +1,15 @@
+version: 1.0.{build}
+image: Visual Studio 2017
+environment:
+  MSBLOC_JWT:
+    secure: eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsImtpZCI6bnVsbCwidHlwIjoiSldUIn0.eyJhdWQiOiJNU0JMT0MuQXBpIiwianRpIjoiMjhlZjUxNWEtMmI5ZS00YWEyLWJiMTktMDc5ODBkOWYyZjM1IiwiaWF0IjoxNTM2ODA5MzgwLCJ1cm46bXNibG9jOnJlcG9zaXRvcnlJZCI6MTAwNTE5ODU0LCJ1cm46bXNibG9jOnJlcG9zaXRvcnlOYW1lIjoiVGVzdFdlYkFwcFByb2plY3QiLCJ1cm46bXNibG9jOnJlcG9zaXRvcnlPd25lciI6Im1lYWdoYW5sZXdpcyIsInVybjptc2Jsb2M6cmVwb3NpdG9yeU93bmVySWQiOjAsInN1YiI6IjEwMTAzMTIxIn0.rhI0vpveYjEJMMiQep2f_vMMURF9LWu-gZcO5e94Tco
+build_script:
+   - ps: >-
+       msbuild TestConsoleApp1.sln --% /bl:output.binlog
+on_finish:
+   - ps: >-
+       if(-not $env:APPVEYOR_PULL_REQUEST_NUMBER)
+       {
+           Import-Module .\tools\MSBuildLogOctokitChecker.psm1
+           Send-MsbuildLogAppveyor output.binlog -Path output.binlog -Token $env:MSBLOC_JWT
+       }
