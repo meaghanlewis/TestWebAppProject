@@ -64,6 +64,9 @@ namespace UnitTestProject3
             //
             // TODO: Add test logic here
             //
+            var one = 1;
+            var two = 2;
+            var three = 3;
         }
     }
 }
