@@ -6,8 +6,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace TestWebAppProject.Controllers
 {
-    public class HomeController : Controller
+    class HomeController : Controller
     {
+<<<<<<< HEAD
         public IActionResult Index()
         {
             return View();
@@ -25,6 +26,8 @@ namespace TestWebAppProject.Controllers
 
             return View();
         }
+=======
+>>>>>>> origin/0417
 
     }
 }
