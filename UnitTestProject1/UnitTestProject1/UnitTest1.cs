@@ -10,5 +10,10 @@ namespace UnitTestProject1
         public void TestMethod1()
         {
         }
+
+        [TestMethod]
+        public void TestMethod1()
+        {
+        }
     }
 }
