@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace TestWebAppProject.Controllers
 {
-    public class HomeController : Controller
+    class HomeController : Controller
     {
 
     }
