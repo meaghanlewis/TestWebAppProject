@@ -2,8 +2,7 @@ version: 1.0.{build}
 image: Visual Studio 2017
 before_build: nuget restore
 build_script:
-- ps: >-
-    msbuild TestWebAppProject.sln --% /bl:output.binlog /verbosity:minimal
+- msbuild TestWebAppProject.sln /bl:output.binlog    
 artifacts:
 - path: output.binlog
   type: File
