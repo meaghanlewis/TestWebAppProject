@@ -10,7 +10,7 @@ namespace TestConsoleApp1
     {
         static void Main(string[] args)
         {
-            string hello = "asdf";
+            string hello = "asdf"
         }
     }
 }
