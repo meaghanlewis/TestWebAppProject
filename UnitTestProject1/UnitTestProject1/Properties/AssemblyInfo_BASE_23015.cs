@@ -1,10 +1,7 @@
-﻿using System.Reflection;
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-// General Information about an assembly is controlled through the following
-// set of attributes. Change these attribute values to modify the information
-// associated with an assembly.
 [assembly: AssemblyTitle("UnitTestProject1")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
@@ -13,9 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
-<<<<<<< HEAD
-=======
->>>>>>> branch1105
+<<<<<<<<< Temporary merge branch 1
 
 // Setting ComVisible to false makes the types in this assembly not visible
 // to COM components.  If you need to access a type in this assembly from
@@ -24,12 +19,10 @@ using System.Runtime.InteropServices;
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
 [assembly: Guid("21cd81a4-bae6-4531-95d2-a20902b861d7")]
-<<<<<<< HEAD
-=======
+=========
 [assembly: ComVisible(false)]
 [assembly: Guid("d71d6bdb-ea76-4fa3-ad31-ef3f9cee402d")]
->>>>>>> master
->>>>>>> branch1105
+>>>>>>>>> Temporary merge branch 2
 
 // Version information for an assembly consists of the following four values:
 //
