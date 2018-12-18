@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -6,8 +7,14 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace TestWebAppProject.Controllers
 {
-    public class HomeController : Controller
+    class HomeController : Controller
     {
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> add-github-pane-views
     }
 }
+=======
+>>>>>>> master
