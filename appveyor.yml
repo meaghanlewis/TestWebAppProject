@@ -2,6 +2,7 @@ version: 1.0.{build}
 image: Visual Studio 2017
 before_build: nuget restore
 build_script:
+<<<<<<< HEAD
 - ps: >-
     msbuild TestWebAppProject.sln --% /bl:output.binlog /verbosity:minimal
 artifacts:
@@ -14,3 +15,15 @@ on_finish:
         Import-Module .\tools\MSBuildLogOctokitChecker.psm1
         Send-MsbuildLogAppveyor -Path output.binlog -Token $env:MSBLOC_JWT
     }
+=======
+- msbuild TestWebAppProject.sln /bl:output.binlog    
+artifacts:
+- path: output.binlog
+  type: File
+install:
+- choco install --no-progress BCC-MSBuildLog
+- choco install --no-progress BCC-Submission  
+on_finish:
+- IF NOT "%BCC_TOKEN%x"=="x" BCCMSBuildLog --cloneRoot "%APPVEYOR_BUILD_FOLDER%" --input output.binlog --output checkrun.json --ownerRepo %APPVEYOR_REPO_NAME% --hash %APPVEYOR_REPO_COMMIT%
+- IF NOT "%BCC_TOKEN%x"=="x" BCCSubmission -h %APPVEYOR_REPO_COMMIT% -i checkrun.json -t %BCC_TOKEN%
+>>>>>>> master
