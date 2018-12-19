@@ -36,3 +36,13 @@
 		#endregion
 	}
 }
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> add-github-pane-views
+=======
+>>>>>>> master
+>>>>>>> origin/0521-changes

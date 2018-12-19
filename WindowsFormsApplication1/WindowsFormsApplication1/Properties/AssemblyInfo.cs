@@ -2,7 +2,19 @@
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
+<<<<<<< HEAD
 // General Information about an assembly is controlled through the following
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+// General Information about an assembly is controlled through the following
+=======
+// General Information about an assembly is controlled through the following 
+>>>>>>> add-github-pane-views
+=======
+// General Information about an assembly is controlled through the following
+>>>>>>> master
+>>>>>>> origin/0521-changes
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("WindowsFormsApplication1")]
@@ -14,8 +26,23 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
+<<<<<<< HEAD
 // Setting ComVisible to false makes the types in this assembly not visible
 // to COM components.  If you need to access a type in this assembly from
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+// Setting ComVisible to false makes the types in this assembly not visible
+// to COM components.  If you need to access a type in this assembly from
+=======
+// Setting ComVisible to false makes the types in this assembly not visible 
+// to COM components.  If you need to access a type in this assembly from 
+>>>>>>> add-github-pane-views
+=======
+// Setting ComVisible to false makes the types in this assembly not visible
+// to COM components.  If you need to access a type in this assembly from
+>>>>>>> master
+>>>>>>> origin/0521-changes
 // COM, set the ComVisible attribute to true on that type.
 [assembly: ComVisible(false)]
 
@@ -25,11 +52,31 @@ using System.Runtime.InteropServices;
 // Version information for an assembly consists of the following four values:
 //
 //      Major Version
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> master
+>>>>>>> origin/0521-changes
 //      Minor Version
 //      Build Number
 //      Revision
 //
 // You can specify all the values or you can default the Build and Revision Numbers
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+//      Minor Version 
+//      Build Number
+//      Revision
+//
+// You can specify all the values or you can default the Build and Revision Numbers 
+>>>>>>> add-github-pane-views
+=======
+>>>>>>> master
+>>>>>>> origin/0521-changes
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]

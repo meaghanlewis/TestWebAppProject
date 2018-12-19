@@ -18,5 +18,15 @@ namespace UnitTestProject3
         public void TestMethod2()
         {
         }
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+        [TestMethod]
+        public void TestMethod3()
+        {
+        }
+>>>>>>> master
+>>>>>>> origin/0521-changes
     }
 }
