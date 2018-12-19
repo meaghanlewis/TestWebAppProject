@@ -18,5 +18,35 @@ namespace UnitTestProject3
         public void TestMethod2()
         {
         }
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 0521-changes0521dfd
+=======
+>>>>>>> 0521-changes0521dfd
+>>>>>>> master
+        [TestMethod]
+        public void TestMethod3()
+        {
+        }
+<<<<<<< HEAD
+>>>>>>> master
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> master
+>>>>>>> 0521-changes0521dfd
+=======
+>>>>>>> master
+>>>>>>> 0521-changes0521dfd
+>>>>>>> master
+>>>>>>> 0521-changes0521dfd
     }
 }
