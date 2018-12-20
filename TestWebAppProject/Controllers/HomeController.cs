@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 0521-changes0521dfd
+>>>>>>> master
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,6 +18,7 @@ namespace TestWebAppProject.Controllers
     class HomeController : Controller
     {
 
+<<<<<<< HEAD
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";
@@ -28,5 +38,20 @@ namespace TestWebAppProject.Controllers
         {
             return View();
         }
+=======
+<<<<<<< HEAD
+=======
+
+>>>>>>> add-github-pane-views
+>>>>>>> 0521-changes0521dfd
     }
 }
+=======
+>>>>>>> master
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0521-changes0521dfd
+=======
+>>>>>>> 0521-changes0521dfd
+>>>>>>> master

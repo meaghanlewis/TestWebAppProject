@@ -64,4 +64,32 @@
     <Error Condition="!Exists('..\packages\MSTest.TestAdapter.1.2.1\build\net45\MSTest.TestAdapter.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\MSTest.TestAdapter.1.2.1\build\net45\MSTest.TestAdapter.targets'))" />
   </Target>
   <Import Project="..\packages\MSTest.TestAdapter.1.2.1\build\net45\MSTest.TestAdapter.targets" Condition="Exists('..\packages\MSTest.TestAdapter.1.2.1\build\net45\MSTest.TestAdapter.targets')" />
+<<<<<<< HEAD
 </Project>
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+</Project>
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 0521-changes0521dfd
+<<<<<<< HEAD
+</Project>
+=======
+>>>>>>> master
+</Project>
+>>>>>>> add-github-pane-views
+=======
+</Project>
+>>>>>>> master
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0521-changes0521dfd
+=======
+>>>>>>> 0521-changes0521dfd
+>>>>>>> master
+>>>>>>> 0521-changes0521dfd
