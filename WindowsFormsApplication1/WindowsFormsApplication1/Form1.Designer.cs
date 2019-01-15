@@ -36,3 +36,19 @@
 		#endregion
 	}
 }
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 0521-changes0521dfd
+<<<<<<< HEAD
+=======
+
+>>>>>>> add-github-pane-views
+=======
+>>>>>>> master
+<<<<<<< HEAD
+>>>>>>> 0521-changes0521dfd
+=======
+>>>>>>> 0521-changes0521dfd
