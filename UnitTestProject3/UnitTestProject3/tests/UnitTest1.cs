@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
@@ -40,3 +41,5 @@ namespace UnitTestProject3
 >>>>>>> 0521-changes0521dfd
     }
 }
+=======
+>>>>>>> 0517kk

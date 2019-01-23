@@ -4,11 +4,17 @@ using System.Runtime.InteropServices;
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 // General Information about an assembly is controlled through the following
 =======
 <<<<<<< HEAD
 =======
 >>>>>>> 0521-changes0521dfd
+=======
+// General Information about an assembly is controlled through the following
+=======
+<<<<<<< HEAD
+>>>>>>> 0517kk
 <<<<<<< HEAD
 // General Information about an assembly is controlled through the following
 =======
@@ -18,9 +24,13 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 >>>>>>> master
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 0521-changes0521dfd
 =======
 >>>>>>> 0521-changes0521dfd
+=======
+>>>>>>> origin/0521-changes
+>>>>>>> 0517kk
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("WindowsFormsApplication1")]
@@ -34,12 +44,18 @@ using System.Runtime.InteropServices;
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 0517kk
 // Setting ComVisible to false makes the types in this assembly not visible
 // to COM components.  If you need to access a type in this assembly from
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 0521-changes0521dfd
+=======
+>>>>>>> 0517kk
 <<<<<<< HEAD
 // Setting ComVisible to false makes the types in this assembly not visible
 // to COM components.  If you need to access a type in this assembly from
@@ -52,9 +68,13 @@ using System.Runtime.InteropServices;
 // to COM components.  If you need to access a type in this assembly from
 >>>>>>> master
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 0521-changes0521dfd
 =======
 >>>>>>> 0521-changes0521dfd
+=======
+>>>>>>> origin/0521-changes
+>>>>>>> 0517kk
 // COM, set the ComVisible attribute to true on that type.
 [assembly: ComVisible(false)]
 
@@ -66,17 +86,24 @@ using System.Runtime.InteropServices;
 //      Major Version
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 0517kk
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
 >>>>>>> master
+<<<<<<< HEAD
 >>>>>>> 0521-changes0521dfd
 =======
 <<<<<<< HEAD
 =======
 >>>>>>> master
 >>>>>>> 0521-changes0521dfd
+=======
+>>>>>>> origin/0521-changes
+>>>>>>> 0517kk
 //      Minor Version
 //      Build Number
 //      Revision
@@ -86,9 +113,13 @@ using System.Runtime.InteropServices;
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> 0521-changes0521dfd
+=======
+=======
+>>>>>>> 0517kk
 //      Minor Version 
 //      Build Number
 //      Revision
@@ -98,9 +129,13 @@ using System.Runtime.InteropServices;
 =======
 >>>>>>> master
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 0521-changes0521dfd
 =======
 >>>>>>> 0521-changes0521dfd
+=======
+>>>>>>> origin/0521-changes
+>>>>>>> 0517kk
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
