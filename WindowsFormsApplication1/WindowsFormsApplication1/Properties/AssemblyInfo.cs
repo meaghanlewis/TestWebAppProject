@@ -6,10 +6,26 @@ using System.Runtime.InteropServices;
 <<<<<<< HEAD
 // General Information about an assembly is controlled through the following
 =======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 0521-changes0521dfd
+<<<<<<< HEAD
+// General Information about an assembly is controlled through the following
+=======
+>>>>>>> master
 // General Information about an assembly is controlled through the following 
 >>>>>>> add-github-pane-views
 =======
 // General Information about an assembly is controlled through the following
+>>>>>>> master
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0521-changes0521dfd
+=======
+>>>>>>> 0521-changes0521dfd
 >>>>>>> master
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
@@ -27,12 +43,29 @@ using System.Runtime.InteropServices;
 // Setting ComVisible to false makes the types in this assembly not visible
 // to COM components.  If you need to access a type in this assembly from
 =======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 0521-changes0521dfd
+<<<<<<< HEAD
+// Setting ComVisible to false makes the types in this assembly not visible
+// to COM components.  If you need to access a type in this assembly from
+=======
+>>>>>>> master
 // Setting ComVisible to false makes the types in this assembly not visible 
 // to COM components.  If you need to access a type in this assembly from 
 >>>>>>> add-github-pane-views
 =======
 // Setting ComVisible to false makes the types in this assembly not visible
 // to COM components.  If you need to access a type in this assembly from
+>>>>>>> master
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0521-changes0521dfd
+=======
+>>>>>>> 0521-changes0521dfd
 >>>>>>> master
 // COM, set the ComVisible attribute to true on that type.
 [assembly: ComVisible(false)]
@@ -46,6 +79,19 @@ using System.Runtime.InteropServices;
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+>>>>>>> master
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> master
+>>>>>>> 0521-changes0521dfd
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> master
+>>>>>>> 0521-changes0521dfd
 >>>>>>> master
 //      Minor Version
 //      Build Number
@@ -54,6 +100,14 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 0521-changes0521dfd
+>>>>>>> master
 //      Minor Version 
 //      Build Number
 //      Revision
@@ -61,6 +115,13 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers 
 >>>>>>> add-github-pane-views
 =======
+>>>>>>> master
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0521-changes0521dfd
+=======
+>>>>>>> 0521-changes0521dfd
 >>>>>>> master
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]

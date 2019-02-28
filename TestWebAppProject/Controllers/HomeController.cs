@@ -1,4 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 0521-changes0521dfd
+>>>>>>> master
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,4 +25,11 @@ namespace TestWebAppProject.Controllers
     }
 }
 =======
+>>>>>>> master
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0521-changes0521dfd
+=======
+>>>>>>> 0521-changes0521dfd
 >>>>>>> master

@@ -8,10 +8,14 @@
 <<<<<<< HEAD
     <ProjectGuid>{FD21BF6A-4E0C-429D-94FD-1E569B2C2928}</ProjectGuid>
 =======
+<<<<<<< HEAD
+<<<<<<< HEAD
     <ProjectGuid>{CCFAF382-6679-4ECA-A84F-7D4C64FA2F9F}</ProjectGuid>
 >>>>>>> add-github-pane-views
 =======
     <ProjectGuid>{FD21BF6A-4E0C-429D-94FD-1E569B2C2928}</ProjectGuid>
+<<<<<<< HEAD
+>>>>>>> 0521-changes0521dfd
 >>>>>>> master
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -89,10 +93,23 @@
 <<<<<<< HEAD
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
 =======
+=======
+>>>>>>> 0521-changes0521dfd
+<<<<<<< HEAD
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+=======
+>>>>>>> master
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
 >>>>>>> add-github-pane-views
 =======
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+>>>>>>> master
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0521-changes0521dfd
+=======
+>>>>>>> 0521-changes0521dfd
 >>>>>>> master
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">
@@ -104,8 +121,24 @@
 <<<<<<< HEAD
 </Project>
 =======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 0521-changes0521dfd
+<<<<<<< HEAD
+</Project>
+=======
+>>>>>>> master
 </Project>
 >>>>>>> add-github-pane-views
 =======
 </Project>
+>>>>>>> master
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0521-changes0521dfd
+=======
+>>>>>>> 0521-changes0521dfd
 >>>>>>> master
