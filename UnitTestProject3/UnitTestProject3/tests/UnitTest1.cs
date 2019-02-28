@@ -37,6 +37,13 @@ namespace UnitTestProject3
 >>>>>>> master
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> master
+>>>>>>> 0521-changes0521dfd
+=======
+>>>>>>> master
+>>>>>>> 0521-changes0521dfd
 >>>>>>> master
     }
 }
