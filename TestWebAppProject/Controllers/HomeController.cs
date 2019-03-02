@@ -1,11 +1,7 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 =======
-<<<<<<< HEAD
-=======
->>>>>>> 0521-changes0521dfd
 >>>>>>> master
 ﻿using System;
 using System.Collections.Generic;
@@ -19,17 +15,12 @@ namespace TestWebAppProject.Controllers
     {
 
 <<<<<<< HEAD
-=======
 
 >>>>>>> add-github-pane-views
     }
 }
 =======
 >>>>>>> master
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 0521-changes0521dfd
 =======
 >>>>>>> 0521-changes0521dfd
 >>>>>>> master
