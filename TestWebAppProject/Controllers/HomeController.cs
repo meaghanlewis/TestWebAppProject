@@ -13,8 +13,11 @@ namespace TestWebAppProject.Controllers
 {
     class HomeController : Controller
     {
+<<<<<<< HEAD
 
 <<<<<<< HEAD
+=======
+>>>>>>> 102
 
 >>>>>>> add-github-pane-views
     }

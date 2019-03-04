@@ -4,6 +4,7 @@ using System.Runtime.InteropServices;
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 // General Information about an assembly is controlled through the following
 =======
 <<<<<<< HEAD
@@ -27,6 +28,9 @@ using System.Runtime.InteropServices;
 =======
 >>>>>>> 0521-changes0521dfd
 >>>>>>> master
+=======
+// General Information about an assembly is controlled through the following
+>>>>>>> 102
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("WindowsFormsApplication1")]
@@ -38,6 +42,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 // Setting ComVisible to false makes the types in this assembly not visible
@@ -67,6 +72,10 @@ using System.Runtime.InteropServices;
 =======
 >>>>>>> 0521-changes0521dfd
 >>>>>>> master
+=======
+// Setting ComVisible to false makes the types in this assembly not visible
+// to COM components.  If you need to access a type in this assembly from
+>>>>>>> 102
 // COM, set the ComVisible attribute to true on that type.
 [assembly: ComVisible(false)]
 
@@ -78,6 +87,7 @@ using System.Runtime.InteropServices;
 //      Major Version
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> master
@@ -93,11 +103,14 @@ using System.Runtime.InteropServices;
 >>>>>>> master
 >>>>>>> 0521-changes0521dfd
 >>>>>>> master
+=======
+>>>>>>> 102
 //      Minor Version
 //      Build Number
 //      Revision
 //
 // You can specify all the values or you can default the Build and Revision Numbers
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -123,6 +136,8 @@ using System.Runtime.InteropServices;
 =======
 >>>>>>> 0521-changes0521dfd
 >>>>>>> master
+=======
+>>>>>>> 102
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]

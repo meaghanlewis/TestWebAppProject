@@ -6,6 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <ProjectGuid>{FD21BF6A-4E0C-429D-94FD-1E569B2C2928}</ProjectGuid>
 =======
 <<<<<<< HEAD
@@ -29,6 +30,9 @@
 =======
 >>>>>>> 0521-changes0521dfd
 >>>>>>> master
+=======
+    <ProjectGuid>{FD21BF6A-4E0C-429D-94FD-1E569B2C2928}</ProjectGuid>
+>>>>>>> 102
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>WindowsFormsApplication1</RootNamespace>
@@ -103,6 +107,7 @@
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
 =======
 <<<<<<< HEAD
@@ -126,12 +131,16 @@
 =======
 >>>>>>> 0521-changes0521dfd
 >>>>>>> master
+=======
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+>>>>>>> 102
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">
   </Target>
   <Target Name="AfterBuild">
   </Target>
   -->
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 </Project>
@@ -157,3 +166,6 @@
 =======
 >>>>>>> 0521-changes0521dfd
 >>>>>>> master
+=======
+</Project>
+>>>>>>> 102
