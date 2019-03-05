@@ -13,11 +13,14 @@ using System.Runtime.InteropServices;
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 <<<<<<< HEAD
 >>>>>>> origin/0521-changes
 >>>>>>> 0517kk
+=======
+>>>>>>> parent of 052a2de... Merge branch 'master' into 102
 // Setting ComVisible to false makes the types in this assembly not visible
 // to COM components.  If you need to access a type in this assembly from
 // COM, set the ComVisible attribute to true on that type.
@@ -36,6 +39,7 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Build and Revision Numbers
 // by using the '*' as shown below:
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 =======
@@ -50,6 +54,8 @@ using System.Runtime.InteropServices;
 =======
 >>>>>>> origin/0521-changes
 >>>>>>> 0517kk
+=======
+>>>>>>> parent of 052a2de... Merge branch 'master' into 102
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]

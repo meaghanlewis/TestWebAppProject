@@ -5,6 +5,7 @@ using System.Runtime.InteropServices;
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 // General Information about an assembly is controlled through the following
 =======
 <<<<<<< HEAD
@@ -31,6 +32,9 @@ using System.Runtime.InteropServices;
 =======
 >>>>>>> origin/0521-changes
 >>>>>>> 0517kk
+=======
+// General Information about an assembly is controlled through the following
+>>>>>>> parent of 052a2de... Merge branch 'master' into 102
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("WindowsFormsApplication1")]
@@ -42,6 +46,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -75,6 +80,10 @@ using System.Runtime.InteropServices;
 =======
 >>>>>>> origin/0521-changes
 >>>>>>> 0517kk
+=======
+// Setting ComVisible to false makes the types in this assembly not visible
+// to COM components.  If you need to access a type in this assembly from
+>>>>>>> parent of 052a2de... Merge branch 'master' into 102
 // COM, set the ComVisible attribute to true on that type.
 [assembly: ComVisible(false)]
 
@@ -84,6 +93,7 @@ using System.Runtime.InteropServices;
 // Version information for an assembly consists of the following four values:
 //
 //      Major Version
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -104,11 +114,14 @@ using System.Runtime.InteropServices;
 =======
 >>>>>>> origin/0521-changes
 >>>>>>> 0517kk
+=======
+>>>>>>> parent of 052a2de... Merge branch 'master' into 102
 //      Minor Version
 //      Build Number
 //      Revision
 //
 // You can specify all the values or you can default the Build and Revision Numbers
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -136,6 +149,8 @@ using System.Runtime.InteropServices;
 =======
 >>>>>>> origin/0521-changes
 >>>>>>> 0517kk
+=======
+>>>>>>> parent of 052a2de... Merge branch 'master' into 102
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]

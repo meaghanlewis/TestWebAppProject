@@ -7,6 +7,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <ProjectGuid>{FD21BF6A-4E0C-429D-94FD-1E569B2C2928}</ProjectGuid>
 =======
 <<<<<<< HEAD
@@ -33,6 +34,9 @@
 =======
 >>>>>>> origin/0521-changes
 >>>>>>> 0517kk
+=======
+    <ProjectGuid>{FD21BF6A-4E0C-429D-94FD-1E569B2C2928}</ProjectGuid>
+>>>>>>> parent of 052a2de... Merge branch 'master' into 102
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>WindowsFormsApplication1</RootNamespace>
@@ -108,6 +112,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
 =======
 <<<<<<< HEAD
@@ -134,12 +139,16 @@
 =======
 >>>>>>> origin/0521-changes
 >>>>>>> 0517kk
+=======
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+>>>>>>> parent of 052a2de... Merge branch 'master' into 102
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">
   </Target>
   <Target Name="AfterBuild">
   </Target>
   -->
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -169,3 +178,6 @@
 =======
 >>>>>>> origin/0521-changes
 >>>>>>> 0517kk
+=======
+</Project>
+>>>>>>> parent of 052a2de... Merge branch 'master' into 102
