@@ -4,7 +4,35 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     <ProjectGuid>{FD21BF6A-4E0C-429D-94FD-1E569B2C2928}</ProjectGuid>
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 0521-changes0521dfd
+=======
+    <ProjectGuid>{FD21BF6A-4E0C-429D-94FD-1E569B2C2928}</ProjectGuid>
+=======
+<<<<<<< HEAD
+>>>>>>> 0517kk
+<<<<<<< HEAD
+    <ProjectGuid>{FD21BF6A-4E0C-429D-94FD-1E569B2C2928}</ProjectGuid>
+=======
+    <ProjectGuid>{CCFAF382-6679-4ECA-A84F-7D4C64FA2F9F}</ProjectGuid>
+>>>>>>> add-github-pane-views
+=======
+    <ProjectGuid>{FD21BF6A-4E0C-429D-94FD-1E569B2C2928}</ProjectGuid>
+>>>>>>> master
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 0521-changes0521dfd
+=======
+>>>>>>> 0521-changes0521dfd
+=======
+>>>>>>> origin/0521-changes
+>>>>>>> 0517kk
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>WindowsFormsApplication1</RootNamespace>
@@ -77,11 +105,67 @@
     <None Include="App.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 0521-changes0521dfd
+=======
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+=======
+<<<<<<< HEAD
+>>>>>>> 0517kk
+<<<<<<< HEAD
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+=======
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+>>>>>>> add-github-pane-views
+=======
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+>>>>>>> master
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 0521-changes0521dfd
+=======
+>>>>>>> 0521-changes0521dfd
+=======
+>>>>>>> origin/0521-changes
+>>>>>>> 0517kk
        Other similar extension points exist, see Microsoft.Common.targets.
   <Target Name="BeforeBuild">
   </Target>
   <Target Name="AfterBuild">
   </Target>
   -->
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 </Project>
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 0521-changes0521dfd
+=======
+</Project>
+=======
+<<<<<<< HEAD
+>>>>>>> 0517kk
+<<<<<<< HEAD
+</Project>
+=======
+</Project>
+>>>>>>> add-github-pane-views
+=======
+</Project>
+>>>>>>> master
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 0521-changes0521dfd
+=======
+>>>>>>> 0521-changes0521dfd
+=======
+>>>>>>> origin/0521-changes
+>>>>>>> 0517kk
