@@ -66,11 +66,17 @@
   <Import Project="..\packages\MSTest.TestAdapter.1.2.1\build\net45\MSTest.TestAdapter.targets" Condition="Exists('..\packages\MSTest.TestAdapter.1.2.1\build\net45\MSTest.TestAdapter.targets')" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 </Project>
 =======
 <<<<<<< HEAD
 =======
 >>>>>>> 0521-changes0521dfd
+=======
+</Project>
+=======
+<<<<<<< HEAD
+>>>>>>> 0517kk
 <<<<<<< HEAD
 </Project>
 =======
@@ -80,6 +86,10 @@
 </Project>
 >>>>>>> master
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 0521-changes0521dfd
 =======
 >>>>>>> 0521-changes0521dfd
+=======
+>>>>>>> origin/0521-changes
+>>>>>>> 0517kk

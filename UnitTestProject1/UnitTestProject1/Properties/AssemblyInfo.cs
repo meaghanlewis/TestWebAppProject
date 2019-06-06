@@ -12,6 +12,12 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyCulture("")]
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+>>>>>>> origin/0521-changes
+>>>>>>> 0517kk
 // Setting ComVisible to false makes the types in this assembly not visible
 // to COM components.  If you need to access a type in this assembly from
 // COM, set the ComVisible attribute to true on that type.
@@ -29,12 +35,21 @@ using System.Runtime.InteropServices;
 //
 // You can specify all the values or you can default the Build and Revision Numbers
 // by using the '*' as shown below:
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 0517kk
 =======
 [assembly: ComVisible(false)]
 
 [assembly: Guid("d71d6bdb-ea76-4fa3-ad31-ef3f9cee402d")]
 
 >>>>>>> add-github-pane-views
+<<<<<<< HEAD
+=======
+>>>>>>> origin/0521-changes
+>>>>>>> 0517kk
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
