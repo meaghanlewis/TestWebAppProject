@@ -12,5 +12,10 @@ namespace UnitTestProject1
             var result = "one";
             Assert.That(result, Is.SameAs("one"));
         }
+
+        [TestMethod]
+        public void TestMethod1()
+        {
+        }
     }
 }
