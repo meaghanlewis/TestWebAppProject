@@ -9,6 +9,10 @@ namespace TestWebAppProject.Controllers
 {
     class HomeController : Controller
     {
+<<<<<<< HEAD
+=======
+
+>>>>>>> parent of 205abba... Merge branch 'master' into branch1105
     }
 }
 
