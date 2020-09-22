@@ -5,5 +5,5 @@
 # file with configuration.  For more information, see:
 # https://github.com/actions/labeler
 
-repo:
+triage:
   - ./*
