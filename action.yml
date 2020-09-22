@@ -2,7 +2,7 @@ name: 'Labeler'
 description: 'Add labels to new pull requests based on the files that are changed'
 author: 'GitHub'
 inputs: 
-  repo-token:
+  repo-token: "${{ secrets.GITHUB_TOKEN }}"
     description: 'The GITHUB_TOKEN secret'
   configuration-path:
     description: 'The path for the label configurations'
